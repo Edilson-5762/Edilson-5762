@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre Mim
 
-Sou um desenvolvedor apaixonado por criar **interfaces responsivas e modernas**. Tenho experiência em desenvolvimento full stack com foco em **HTML, CSS, Python, JavaScript, React, Git, GitHub e N8N**. Estou sempre aprendendo e evoluindo minhas habilidades para criar soluções web de qualidade.
+Sou desenvolvedor **Full Stack em transição de carreira**, apaixonado por tecnologia e inovação. Estou focado em **aprimorar meus conhecimentos** em **Python, JavaScript, HTML, CSS, Power BI, Excel, Git, GitHub, Inteligência Artificial e N8N**. Meu objetivo é criar soluções web de qualidade e explorar novas possibilidades no desenvolvimento e automação.
 
 ---
 
@@ -20,30 +20,30 @@ Sou um desenvolvedor apaixonado por criar **interfaces responsivas e modernas**.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![N8N](https://img.shields.io/badge/N8N-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![IA](https://img.shields.io/badge/Inteligência_Artificial-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
 ## 🎯 Projetos em Destaque
 
-### 📱 [iPhone 17 Pro](https://github.com/Edilson-5762/iphone-17)
+### 📱 [iPhone 17 Pro](https://iphone-17.vercel.app/)
 Projeto moderno desenvolvido com **React, Vite e Tailwind CSS**. Design responsivo e profissional.
+🔗 [Ver https://iphone-17.vercel.app/) | 📂 [Repositório](https://github.com/Edilson-5762/iphone-17)
 
-### 🛒 [Mercado Livre v2](https://github.com/Edilson-5762/mercado-livre-v2)
+### 🛒 [Mercado Livre v2](https://https://mercado-livre-v2.vercel.app)
 E-commerce responsivo desenvolvido com **HTML, CSS e JavaScript**. Design moderno e funcional.
+🔗 [Ver Projeto]https://mercado-livre-v2.vercel.app) | 📂 [Repositório](https://github.com/Edilson-5762/mercado-livre-v2)
 
-### 📄 [Portfólio](https://github.com/Edilson-5762/Porfifolio)
+### 📄 [Portfólio](https://porfifolio-theta.vercel.app)
 Meu portfólio pessoal com todos meus projetos e trabalhos. Desenvolvido com **HTML e CSS**.
+🔗 [Ver Projeto](https://porfifolio-theta.vercel.app) | 📂 [Repositório](https://github.com/Edilson-5762/Porfifolio)
 
-### 📋 [Currículo Online](https://github.com/Edilson-5762/Curriculo-Edilson-Moraes)
+### 📋 [Currículo Online](https://edilson-5762.github.io/Curriculo-Edilson-Moraes/)
 Meu currículo interativo desenvolvido com **HTML e CSS**.
-
----
-
-## 📊 Estatísticas do GitHub
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=Edilson-5762&show_icons=true&theme=radical)
+🔗 [Ver Projeto](https://edilson-5762.github.io/Curriculo-Edilson-Moraes/) | 📂 [Repositório](https://github.com/Edilson-5762/Curriculo-Edilson-Moraes)
 
 ---
 
@@ -51,7 +51,7 @@ Meu currículo interativo desenvolvido com **HTML e CSS**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edilson-moraes-047128408)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@developeredilsonebenezer.com.br)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Edilson-5762/Porfifolio)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white)](https://porfifolio-theta.vercel.app)
 
 ---
 
@@ -61,19 +61,4 @@ Meu currículo interativo desenvolvido com **HTML e CSS**.
 
 ---
 
-⭐ Se você gostou do meu perfil, deixe uma estrela nos meus repositórios!## Hi there 👋
-
-<!--
-**Edilson-5762/Edilson-5762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Se você gostou do meu perfil, deixe uma estrela nos meus repositórios!
