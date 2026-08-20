@@ -20,29 +20,21 @@ Desenvolvedor Full Stack graduado em **Análise e Desenvolvimento de Sistemas**,
 
 **Linguagens & Front-end**
 
-<img src="icons/python.svg" width="48" height="48" alt="Python" title="Python" />
-<img src="icons/javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />
-<img src="icons/react.svg" width="48" height="48" alt="React" title="React" />
-<img src="icons/nodejs.svg" width="48" height="48" alt="Node.js" title="Node.js" />
-<img src="icons/html5.svg" width="48" height="48" alt="HTML5" title="HTML5" />
-<img src="icons/css3.svg" width="48" height="48" alt="CSS3" title="CSS3" />
-<img src="icons/tailwindcss.svg" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS" />
-<img src="icons/sql.svg" width="48" height="48" alt="SQL" title="SQL" />
-<img src="icons/nextjs.svg" width="48" height="48" alt="Next.js" title="Next.js" />
+<p>
+<img src="icons/python.svg" width="48" height="48" alt="Python" title="Python" />&nbsp;<img src="icons/javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />&nbsp;<img src="icons/react.svg" width="48" height="48" alt="React" title="React" />&nbsp;<img src="icons/nodejs.svg" width="48" height="48" alt="Node.js" title="Node.js" />&nbsp;<img src="icons/html5.svg" width="48" height="48" alt="HTML5" title="HTML5" />&nbsp;<img src="icons/css3.svg" width="48" height="48" alt="CSS3" title="CSS3" />&nbsp;<img src="icons/tailwindcss.svg" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;<img src="icons/sql.svg" width="48" height="48" alt="SQL" title="SQL" />&nbsp;<img src="icons/nextjs.svg" width="48" height="48" alt="Next.js" title="Next.js" />
+</p>
 
 **Dados & BI**
 
-<img src="icons/powerbi.svg" width="48" height="48" alt="Power BI" title="Power BI" />
-<img src="icons/excel.svg" width="48" alt="Excel" title="Excel" />
+<p>
+<img src="icons/powerbi.svg" width="48" height="48" alt="Power BI" title="Power BI" />&nbsp;<img src="icons/excel.svg" width="48" alt="Excel" title="Excel" />
+</p>
 
 **Automação & IA**
 
-<img src="icons/n8n.svg" width="48" height="48" alt="n8n" title="n8n" />
-<img src="icons/pyautogui.svg" width="48" height="48" alt="PyAutoGUI" title="PyAutoGUI" />
-<img src="icons/claude.svg" width="48" height="48" alt="Claude AI" title="Claude AI" />
-<img src="icons/claude-code.svg" width="48" alt="Claude Code" title="Claude Code" />
-<img src="icons/git.svg" width="48" height="48" alt="Git" title="Git" />
-<img src="icons/github.svg" width="48" height="48" alt="GitHub" title="GitHub" />
+<p>
+<img src="icons/n8n.svg" width="48" height="48" alt="n8n" title="n8n" />&nbsp;<img src="icons/pyautogui.svg" width="48" height="48" alt="PyAutoGUI" title="PyAutoGUI" />&nbsp;<img src="icons/claude.svg" width="48" height="48" alt="Claude AI" title="Claude AI" />&nbsp;<img src="icons/claude-code.svg" width="48" alt="Claude Code" title="Claude Code" />&nbsp;<img src="icons/git.svg" width="48" height="48" alt="Git" title="Git" />&nbsp;<img src="icons/github.svg" width="48" height="48" alt="GitHub" title="GitHub" />
+</p>
 
 ## Projetos
 
