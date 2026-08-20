@@ -20,21 +20,35 @@ Desenvolvedor Full Stack graduado em **Análise e Desenvolvimento de Sistemas**,
 
 **Linguagens & Front-end**
 
-<p>
-<img src="icons/python.svg" width="48" height="48" alt="Python" title="Python" />&nbsp;<img src="icons/javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />&nbsp;<img src="icons/react.svg" width="48" height="48" alt="React" title="React" />&nbsp;<img src="icons/nodejs.svg" width="48" height="48" alt="Node.js" title="Node.js" />&nbsp;<img src="icons/html5.svg" width="48" height="48" alt="HTML5" title="HTML5" />&nbsp;<img src="icons/css3.svg" width="48" height="48" alt="CSS3" title="CSS3" />&nbsp;<img src="icons/tailwindcss.svg" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;<img src="icons/sql.svg" width="48" height="48" alt="SQL" title="SQL" />&nbsp;<img src="icons/nextjs.svg" width="48" height="48" alt="Next.js" title="Next.js" />
-</p>
+<table cellpadding="10" cellspacing="0" border="0"><tr>
+<td align="center"><img src="icons/python.svg" width="48" height="48" alt="Python" title="Python" /><br/>Python</td>
+<td align="center"><img src="icons/javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript" /><br/>JavaScript</td>
+<td align="center"><img src="icons/react.svg" width="48" height="48" alt="React" title="React" /><br/>React</td>
+<td align="center"><img src="icons/nodejs.svg" width="48" height="48" alt="Node.js" title="Node.js" /><br/>Node.js</td>
+<td align="center"><img src="icons/html5.svg" width="48" height="48" alt="HTML5" title="HTML5" /><br/>HTML5</td>
+<td align="center"><img src="icons/css3.svg" width="48" height="48" alt="CSS3" title="CSS3" /><br/>CSS3</td>
+<td align="center"><img src="icons/tailwindcss.svg" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS" /><br/>Tailwind</td>
+<td align="center"><img src="icons/sql.svg" width="48" height="48" alt="SQL" title="SQL" /><br/>SQL</td>
+<td align="center"><img src="icons/nextjs.svg" width="48" height="48" alt="Next.js" title="Next.js" /><br/>Next.js</td>
+</tr></table>
 
 **Dados & BI**
 
-<p>
-<img src="icons/powerbi.svg" width="48" height="48" alt="Power BI" title="Power BI" />&nbsp;<img src="icons/excel.svg" width="48" alt="Excel" title="Excel" />
-</p>
+<table cellpadding="10" cellspacing="0" border="0"><tr>
+<td align="center"><img src="icons/powerbi.svg" width="48" height="48" alt="Power BI" title="Power BI" /><br/>Power BI</td>
+<td align="center"><img src="icons/excel.svg" width="48" alt="Excel" title="Excel" /><br/>Excel</td>
+</tr></table>
 
 **Automação & IA**
 
-<p>
-<img src="icons/n8n.svg" width="48" height="48" alt="n8n" title="n8n" />&nbsp;<img src="icons/pyautogui.svg" width="48" height="48" alt="PyAutoGUI" title="PyAutoGUI" />&nbsp;<img src="icons/claude.svg" width="48" height="48" alt="Claude AI" title="Claude AI" />&nbsp;<img src="icons/claude-code.svg" width="48" alt="Claude Code" title="Claude Code" />&nbsp;<img src="icons/git.svg" width="48" height="48" alt="Git" title="Git" />&nbsp;<img src="icons/github.svg" width="48" height="48" alt="GitHub" title="GitHub" />
-</p>
+<table cellpadding="10" cellspacing="0" border="0"><tr>
+<td align="center"><img src="icons/n8n.svg" width="48" height="48" alt="n8n" title="n8n" /><br/>n8n</td>
+<td align="center"><img src="icons/pyautogui.svg" width="48" height="48" alt="PyAutoGUI" title="PyAutoGUI" /><br/>PyAutoGUI</td>
+<td align="center"><img src="icons/claude.svg" width="48" height="48" alt="Claude AI" title="Claude AI" /><br/>Claude AI</td>
+<td align="center"><img src="icons/claude-code.svg" width="48" alt="Claude Code" title="Claude Code" /><br/>Claude Code</td>
+<td align="center"><img src="icons/git.svg" width="48" height="48" alt="Git" title="Git" /><br/>Git</td>
+<td align="center"><img src="icons/github.svg" width="48" height="48" alt="GitHub" title="GitHub" /><br/>GitHub</td>
+</tr></table>
 
 ## Projetos
 
