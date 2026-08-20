@@ -20,27 +20,29 @@ Desenvolvedor Full Stack graduado em **Análise e Desenvolvimento de Sistemas**,
 
 **Linguagens & Front-end**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="icons/python.svg" width="48" height="48" alt="Python" title="Python" />
+<img src="icons/javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />
+<img src="icons/react.svg" width="48" height="48" alt="React" title="React" />
+<img src="icons/nodejs.svg" width="48" height="48" alt="Node.js" title="Node.js" />
+<img src="icons/html5.svg" width="48" height="48" alt="HTML5" title="HTML5" />
+<img src="icons/css3.svg" width="48" height="48" alt="CSS3" title="CSS3" />
+<img src="icons/tailwindcss.svg" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS" />
+<img src="icons/sql.svg" width="48" height="48" alt="SQL" title="SQL" />
+<img src="icons/nextjs.svg" width="48" height="48" alt="Next.js" title="Next.js" />
 
 **Dados & BI**
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+<img src="icons/powerbi.svg" width="48" height="48" alt="Power BI" title="Power BI" />
+<img src="icons/excel.svg" width="48" alt="Excel" title="Excel" />
 
 **Automação & IA**
 
-![N8N](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-D9A544?style=for-the-badge&logo=python&logoColor=black)
-![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="icons/n8n.svg" width="48" height="48" alt="n8n" title="n8n" />
+<img src="icons/pyautogui.svg" width="48" height="48" alt="PyAutoGUI" title="PyAutoGUI" />
+<img src="icons/claude.svg" width="48" height="48" alt="Claude AI" title="Claude AI" />
+<img src="icons/claude-code.svg" width="48" alt="Claude Code" title="Claude Code" />
+<img src="icons/git.svg" width="48" height="48" alt="Git" title="Git" />
+<img src="icons/github.svg" width="48" height="48" alt="GitHub" title="GitHub" />
 
 ## Projetos
 
