@@ -1,8 +1,6 @@
 <div align="center">
   <img src="./assets/edilson-profile-circle.png" width="190" alt="Foto de perfil de Edilson Moraes" />
 
-  # Edilson Moraes
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:6a3093,100:00c6ff&height=170&section=header&text=Edilson%20Moraes&fontSize=36&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20Data%20Analyst&descAlignY=52&descSize=16&descColor=ffffff" width="100%"/>
 
 **Full Stack Developer | React | Next.js | TypeScript | Node.js | JavaScript | Python | SQL | Power BI | Excel | n8n | Claude Code | AI-Assisted Development | Data Analytics & IA.**
@@ -12,15 +10,6 @@
   [![Email](https://img.shields.io/badge/Email-Contato-red?logo=gmail)](mailto:contato@developeredilsonebenezer.com.br)
   [![Portfólio](https://img.shields.io/badge/Portfólio-Acessar-black?logo=vercel)](https://porfifolio-theta.vercel.app)
   [![Currículo](https://img.shields.io/badge/Currículo-Online-green)](https://edilson-5762.github.io/Curriculo-Edilson-Moraes/)
-</div>
-
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:6a3093,100:00c6ff&height=170&section=header&text=Edilson%20Moraes&fontSize=36&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20Data%20Analyst&descAlignY=52&descSize=16&descColor=ffffff" width="100%"/>
-
-**Full Stack Developer | React | Next.js | TypeScript | Node.js | JavaScript | Python | SQL | Power BI | Excel | n8n | Claude Code | AI-Assisted Development | Data Analytics & IA.**
-
 </div>
 
 ```
