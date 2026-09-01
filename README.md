@@ -1,3 +1,4 @@
+![Uploading pyautogui.svg…]()
 <div align="center">
 Olá, eu sou Edilson Moraes 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:6a3093,100:00c6ff&height=170&section=header&text=Edilson%20Moraes&fontSize=36&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20Data%20Analyst&descAlignY=52&descSize=16&descColor=ffffff" width="100%"/>
@@ -5,7 +6,12 @@ Olá, eu sou Edilson Moraes 👋
 Full Stack Developer | React | Next.js | TypeScript | Node.js | JavaScript | Python | SQL | Power BI | Excel | n8n | Claude Code | AI-Assisted Development | Data Analytics & IA.
 
 </div>
-┌─ PAINEL ────────────────────────────────────────────────
+┌─ PAINEL ────────────────────────────────────────────────<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+<rect x="2.4" y="5" width="19.2" height="12" rx="2" stroke="#4B8BBE"/>
+<path d="M5.6 8.6h1M8.6 8.6h1M11.6 8.6h1M14.6 8.6h1M17.6 8.6h1M5.6 11.6h8.6M5.6 14.4h4.6" stroke="#4B8BBE"/>
+<path d="M16.6 15 21.2 19.6M21.2 15 16.6 19.6" stroke="#FFD43B"/>
+</svg>
+
 │ FORMAÇÃO   Análise e Desenvolvimento de Sistemas
 │ ATUAÇÃO    Full Stack Dev · Data Analyst em formação
 │ STACK      Python · JS · React · Node · SQL
