@@ -1,4 +1,6 @@
-![Uploading pyautogui.svg…]()
+<div align="center">
+  <img src="./assets/edilson-profile-circle.png" width="190" alt="Foto de perfil de Edilson Moraes" />
+</div>
 <div align="center">
 Olá, eu sou Edilson Moraes 👋
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:6a3093,100:00c6ff&height=170&section=header&text=Edilson%20Moraes&fontSize=36&fontColor=ffffff&fontAlignY=32&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20Data%20Analyst&descAlignY=52&descSize=16&descColor=ffffff" width="100%"/>
@@ -67,6 +69,11 @@ Projeto	Stack	Link
 Gerenciador de Estoque	Python · CustomTkinter · SQLite	repositório
 Conecte-se
 
-LinkedIn Email Portfólio
+<p align="center">
+  <a href="https://www.linkedin.com/in/edilson-moraes-047128408/">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:contato@developeredilsonebenezer.com.br">Email</a>
+</p>
+
 
 📍 Brasília — DF, Brasil
