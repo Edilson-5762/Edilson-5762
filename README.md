@@ -9,7 +9,7 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/edilson-moraes-047128408/)
   [![Email](https://img.shields.io/badge/Email-Contato-red?logo=gmail)](mailto:contato@developeredilsonebenezer.com.br)
   [![Portfólio](https://img.shields.io/badge/Portfólio-Acessar-black?logo=vercel)](https://porfifolio-theta.vercel.app)
-  [![Currículo](https://img.shields.io/badge/Cartão-Digital-acessar-green)](https://developeredilsonebenezer.com.br/)
+  [![Currículo](https://img.shields.io/badge/Cartão-Digital-acessar-green)](cartaodigital.developeredilsonebenezer.com.br)
 </div>
 
 ```
